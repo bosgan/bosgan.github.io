@@ -6,5 +6,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Brandon presenting a poster](/images/URS_Brandon.JPG){:  .align-right width="300px"}
+![Brandon presenting a poster](/images/HRPS_Brandon_talking.jpg){:  .align-right width="300px"}
 I am a second-year M.A. student and teaching assistant in the [Department of Linguistics](https://linguistics.unc.edu/) at the [University of North Carolina at Chapel Hill](https://www.unc.edu/). My research focuses on vowel reduction and sonority faithfulness in constraint-based frameworks. More generally, I focus on theoretical phonology, with sub-interests in phonetics, morphology, and their interactions. My primary language of interest is Bolognese/Bulgnaiṡ, an Emilian language of Bologna, Italy.
