@@ -43,4 +43,18 @@ This page serves as a repository for the helpful linguistic resources I've come 
   * The Linguist List provides a forum where academic linguists can exchange linguistic information, including information about jobs, publications and conferences.
  
 * [LinguisTree](https://academictree.org/linguistics/)
-  * The Academic Genealogy of Linguistics is a free, volunteer-run website designed to help you track your academic genealogy. The goal of LinguisTree is to collect information about the graduate student and postdoctoral relationships between most researchers in the field.  
+  * The Academic Genealogy of Linguistics is a free, volunteer-run website designed to help you track your academic genealogy. The goal of LinguisTree is to collect information about the graduate student and postdoctoral relationships between most researchers in the field.
+
+## Reference databases on the world's languages
+ 
+* [Glottolog](https://glottolog.org/)
+  *  Glottolog aims to provide a complete list of languoids (families, languages, dialects) and references on the world's languages (apart from national languages and a few dozen other major languages for which thousands of studies exist). At the moment, it contains 447613 references on 27034 varieties and families.
+ 
+* [OLAC](http://www.language-archives.org/)
+  * The Open Language Archives Community aims at creating catalog of the world's languages with details about text collections, audio recordings, dictionaries, and software, sourced from dozens of digital and traditional archives.
+ 
+* [WALS](https://wals.info/)
+  *  WALS is a large database of structural (phonological, grammatical, lexical) properties of languages gathered from descriptive materials (such as reference grammars) by a team of 55 authors.
+ 
+* [APiCS](https://apics-online.info/)
+  * The Atlas of Pidgin and Creole Language Structures provides expert-based information on 130 grammatical and lexical features of 76 pidgin and creole languages from around the world.
