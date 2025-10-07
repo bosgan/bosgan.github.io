@@ -3,6 +3,8 @@ title: "Helpful Resources"
 layout: archive
 permalink: /helpful-resources/
 author_profile: true
+redirect_from:
+  - /helpful-resources
 ---
 
 Below is a list of some helpful linguistic resources I've used.
