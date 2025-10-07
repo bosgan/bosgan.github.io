@@ -26,13 +26,36 @@ This page serves as a repository for the helpful linguistic resources I've come 
 * [Interactive Feature Switchboard](https://nnnnnnnn.info/whiskey/)
   *  The Whiskey Feature Switchboard is an interactive IPA chart that allows you to see the binary features of a particular phoneme, or filter the IPA chart by features.
  
-* [PBase](https://pbase.phon.chass.ncsu.edu/)
-  * PBase is a database of phonological patterns, allowing you to search for languages based on phonological pattern.
+* [Online IPA Keyboard](https://ipa.typeit.org/full/)
+  *  This is an easy to use online IPA keyboard that lets you copy your text into other documents.
 
 ## Syntax
 
 * [TreeBuilder](https://nifty-morse-4f2438.netlify.app/)
   * TreeBuilder is a web interface to quickly and easily draw syntactic trees. The trees can be exported as images or files, and reloaded into the interface as needed. Its user guide can be found [here](https://nifty-morse-4f2438.netlify.app/tutorial).
+ 
+* [jsSyntaxTree](https://ironcreek.net/syntaxtree/)
+  * jsSyntaxTree is a web application that creates syntax tree graphs from phrases entered in labelled bracket notation.
+
+## Databases on the world's languages
+ 
+* [Glottolog](https://glottolog.org/)
+  *  Glottolog aims to provide a complete list of languoids (families, languages, dialects) and references on the world's languages (apart from national languages and a few dozen other major languages for which thousands of studies exist). At the moment, it contains 447613 references on 27034 varieties and families.
+ 
+* [OLAC](http://www.language-archives.org/)
+  * The Open Language Archives Community aims at creating catalog of the world's languages with details about text collections, audio recordings, dictionaries, and software, sourced from dozens of digital and traditional archives.
+ 
+* [PBase](https://pbase.phon.chass.ncsu.edu/)
+  * PBase is a database of phonological patterns, allowing you to search for languages based on phonological pattern.
+ 
+* [WALS](https://wals.info/)
+  *  WALS is a large database of structural (phonological, grammatical, lexical) properties of languages gathered from descriptive materials (such as reference grammars) by a team of 55 authors.
+ 
+* [APiCS](https://apics-online.info/)
+  * The Atlas of Pidgin and Creole Language Structures provides expert-based information on 130 grammatical and lexical features of 76 pidgin and creole languages from around the world.
+ 
+* [Ethnologue](https://www.ethnologue.com/)
+  * The goal of Ethnologue is to be a comprehensive resource that provides detailed information about the world's nearly 7,500 living languages, including their usage, speakers, and cultural significance.
 
 ## Other
 
@@ -44,17 +67,11 @@ This page serves as a repository for the helpful linguistic resources I've come 
  
 * [LinguisTree](https://academictree.org/linguistics/)
   * The Academic Genealogy of Linguistics is a free, volunteer-run website designed to help you track your academic genealogy. The goal of LinguisTree is to collect information about the graduate student and postdoctoral relationships between most researchers in the field.
+ 
+## Just for fun!
 
-## Reference databases on the world's languages
+* [Pink Trombone](https://dood.al/pinktrombone/)
+  * An easy to manipulate synthetic vocal tract.
  
-* [Glottolog](https://glottolog.org/)
-  *  Glottolog aims to provide a complete list of languoids (families, languages, dialects) and references on the world's languages (apart from national languages and a few dozen other major languages for which thousands of studies exist). At the moment, it contains 447613 references on 27034 varieties and families.
- 
-* [OLAC](http://www.language-archives.org/)
-  * The Open Language Archives Community aims at creating catalog of the world's languages with details about text collections, audio recordings, dictionaries, and software, sourced from dozens of digital and traditional archives.
- 
-* [WALS](https://wals.info/)
-  *  WALS is a large database of structural (phonological, grammatical, lexical) properties of languages gathered from descriptive materials (such as reference grammars) by a team of 55 authors.
- 
-* [APiCS](https://apics-online.info/)
-  * The Atlas of Pidgin and Creole Language Structures provides expert-based information on 130 grammatical and lexical features of 76 pidgin and creole languages from around the world.
+* [Gramle](https://nascl.rc.nau.edu/gramle/)
+  * A Wordle-type game for reading spectrograms.
