@@ -37,7 +37,7 @@ This page serves as a repository for the helpful linguistic resources I've come 
 * [jsSyntaxTree](https://ironcreek.net/syntaxtree/)
   * jsSyntaxTree is a web application that creates syntax tree graphs from phrases entered in labelled bracket notation.
 
-## Databases on the world's languages
+## Reference Databases
  
 * [Glottolog](https://glottolog.org/)
   *  Glottolog aims to provide a complete list of languoids (families, languages, dialects) and references on the world's languages (apart from national languages and a few dozen other major languages for which thousands of studies exist). At the moment, it contains 447613 references on 27034 varieties and families.
@@ -56,6 +56,9 @@ This page serves as a repository for the helpful linguistic resources I've come 
  
 * [Ethnologue](https://www.ethnologue.com/)
   * The goal of Ethnologue is to be a comprehensive resource that provides detailed information about the world's nearly 7,500 living languages, including their usage, speakers, and cultural significance.
+ 
+* [IE-CoR](https://iecor.clld.org/)
+  * The Indo-European Cognate Relationships database provides tools to analyze how Indo-European languages are related through cognate sets.
 
 ## Other
 
