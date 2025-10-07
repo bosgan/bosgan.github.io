@@ -2,6 +2,7 @@
 title: "Helpful Resources"
 layout: archive
 permalink: /helpful-resources/
+author_profile: True
 ---
 
 Below is a list of some helpful linguistic resources I've used.
