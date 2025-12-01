@@ -11,8 +11,7 @@ Hello! I am a second-year M.A. student and teaching assistant in the [Department
 
 My surname is pronounced as [ˈɑz.gɪn] ('Oz' like the wizard, plus 'fin' with a hard 'g').
 
-<img src="/images/HRPS_Brandon_talking.jpg" alt="Brandon presenting a poster" style="float: left; margin-right: 10px;">
+<img src="/images/HRPS_Brandon_talking.jpg" alt="Brandon presenting a poster" style="float: left; margin-right: 300px;">
+## News
 
-### News
-
-I will be 
+I will be ...
