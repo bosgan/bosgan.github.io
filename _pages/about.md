@@ -11,7 +11,8 @@ Hello! I am a second-year M.A. student and teaching assistant in the [Department
 
 My surname is pronounced as [ˈɑz.gɪn] ('Oz' like the wizard, plus 'fin' with a hard 'g').
 
-<img src="/images/HRPS_Brandon_talking.jpg" alt="Brandon presenting a poster" style="float: left; margin-right: 300px;">
-## News
+<img src="/images/HRPS_Brandon_talking.jpg" alt="Brandon presenting a poster" style="float: left; margin-right: 10px; width: 300px;">
+### News
 
-I will be ...
+I will be giving a talk at the [2026 LSA Annual Meeting](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/summary) in New Orleans: "_Vowel Reduction is Conditioned by Quality and Quantity
+Interactions: Evidence from Bolognese_"
