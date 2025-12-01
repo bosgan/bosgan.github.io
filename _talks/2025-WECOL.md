@@ -9,4 +9,4 @@ location: "Hosted online by Pázmány Péter Catholic
 University"
 ---
 
-[slides](/files/WECOL2025_Quality_and_Quantity_Slides.pdf)
+A copy of the slides can be found [here](/files/WECOL2025_Quality_and_Quantity_Slides.pdf).
