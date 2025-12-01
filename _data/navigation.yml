@@ -14,7 +14,7 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?hl=en&user=sI6XEV4AAAAJ
 
-   - title: "Presentations"
+  - title: "Presentations"
     url: /talks/    
 
   # - title: "Teaching"
