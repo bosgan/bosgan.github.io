@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a second-year M.A. student and teaching assistant in the [Department of Linguistics](https://linguistics.unc.edu/) at the [University of North Carolina at Chapel Hill](https://www.unc.edu/). My research focuses on vowel reduction in constraint-based frameworks. More generally, I focus on theoretical phonology, with sub-interests in phonetics, morphology, and their interactions. My primary language of interest is Bolognese/Bulgnaiṡ, an Emilian language of Bologna, Italy.
+Hello! I am a second-year M.A. student and teaching assistant in the [Department of Linguistics](https://linguistics.unc.edu/) at the [University of North Carolina at Chapel Hill](https://www.unc.edu/). My research focuses on theoretical phonology, particularly phonological representation and constraint interaction at the phonetics-phonology interface. I work primarily on Italian dialects, currently focusing on [Bolognese](https://bulgnais.com/) (an Emilian variety spoken in Bologna, Italy) as a case study for understanding vowel reduction and related morphophonological processes.
 
 My surname is pronounced as [ˈɑz.gɪn] ('Oz' like the wizard, plus 'fin' with a hard 'g').
 
