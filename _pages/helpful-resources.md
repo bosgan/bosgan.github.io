@@ -18,7 +18,7 @@ This page serves as a repository for the helpful linguistic resources I've come 
   * OT-Help 2 provides tools for studying language typology in parallel and serial versions of Optimality Theory and Harmonic Grammar. It is available for Mac, Windows, and Linux.
 
 * [OT-Soft](https://brucehayes.org/otsoft/)
-  * OTSoft is a Windows program meant to facilitate analysis in Optimality Theory* and related frameworks by using algorithms to do tasks that are too large or complex to be done reliably by hand.
+  * OTSoft is a Windows program meant to facilitate analysis in Optimality Theory and related frameworks by using algorithms to do tasks that are too large or complex to be done reliably by hand.
 
 * [Interactive IPA Chart](https://www.ipachart.com/)
   * This website lets you hear the sounds that correlate with the symbols of the IPA chart.
