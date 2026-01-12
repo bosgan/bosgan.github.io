@@ -17,4 +17,4 @@ My surname is pronounced as [ˈɑz.gɪn] ('Oz' like the wizard, plus 'fin' with 
 Interactions: Evidence from Bolognese_"
   * A copy of the slides can be found [here](/files/LSA_2026_BOsgan_Quality_and_Quantity_Slides.pdf).
 
-<img src="/images/HRPS_Brandon_talking.jpg" alt="Brandon presenting a poster" style="float: left; margin-right: 100px; width: 300px;"> <img src="/images/LSA26_presentation_photo_1.jpeg" alt="Brandon giving a talk" style="float: left; margin-right: 40px; width: 300px;">
+<img src="/images/HRPS_Brandon_talking.jpg" alt="Brandon presenting a poster" style="float: left; margin-right: 40px; width: 300px;"> <img src="/images/LSA26_presentation_photo_1.jpeg" alt="Brandon giving a talk" style="float: left; margin-right: 40px; width: 300px;">
