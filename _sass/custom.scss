@@ -11,7 +11,12 @@
 
 .framed-photo {
   padding: 6px;
-  border: 4px solid var(--border-color, rgba(255,255,255,0.2));
-  background: var(--background-color, rgba(0,0,0,0.4));
   border-radius: 10px;
+  
+  /* Same ring system as the avatar */
+  border: 4px solid var(--global-border-color);
+  background: var(--global-bg-color);
+
+  /* Prevent background bleeding into corners */
+  background-clip: padding-box;
 }
