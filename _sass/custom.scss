@@ -8,3 +8,10 @@
   text-decoration: none !important;
   border-bottom: none !important;
 }
+
+.framed-photo {
+  padding: 6px;
+  border: 4px solid var(--border-color, rgba(255,255,255,0.2));
+  background: var(--background-color, rgba(0,0,0,0.4));
+  border-radius: 10px;
+}
