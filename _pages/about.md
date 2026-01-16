@@ -13,7 +13,7 @@ My surname is pronounced as [ˈɑz.gɪn] ('Oz' like the wizard, plus 'fin' with 
 
 <h2 style="display: inline;">Recent news!</h2>
 
-* I recently gave a talk at the [2026 LSA Annual Meeting](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/summary) in New Orleans, Louisiana: "_Vowel Reduction is Conditioned by Quality and Quantity
+* I gave a talk at the [2026 LSA Annual Meeting](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/summary) in New Orleans, Louisiana: "_Vowel Reduction is Conditioned by Quality and Quantity
 Interactions: Evidence from Bolognese_"
   * A copy of the slides can be found [here](/files/LSA_2026_BOsgan_Quality_and_Quantity_Slides.pdf).
 
