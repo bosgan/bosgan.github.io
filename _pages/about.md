@@ -13,8 +13,10 @@ My surname is pronounced as [ˈɑz.gɪn] ('Oz' like the wizard, plus 'fin' with 
 
 <h2 style="display: inline;">Recent news!</h2>
 
-* I gave a talk at the [2026 LSA Annual Meeting](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/summary) in New Orleans, Louisiana: "_Vowel Reduction is Conditioned by Quality and Quantity
-Interactions: Evidence from Bolognese_"
-  * A copy of the slides can be found [here](/files/LSA_2026_BOsgan_Quality_and_Quantity_Slides.pdf).
+* I will be joining the linguistics Ph.D. program at [Stony Brook University](https://linguistics.stonybrook.edu/) this Fall! 
+
+<!-- * I gave a talk at the [2026 LSA Annual Meeting](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/summary) in New Orleans, Louisiana: "_Vowel Reduction is Conditioned by Quality and Quantity
+Interactions: Evidence from Bolognese"
+  * A copy of the slides can be found [here](/files/LSA_2026_BOsgan_Quality_and_Quantity_Slides.pdf). -->
 
 <img src="/images/HRPS_Brandon_talking.jpg" alt="Brandon presenting a poster" class="framed-photo" style="float: left; margin-right: 40px; width: 300px;"> <img src="/images/LSA26_presentation_photo_1.jpeg" class="framed-photo" alt="Brandon giving a talk" style="float: left; margin-right: 40px; width: 300px;">
