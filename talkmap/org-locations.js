@@ -1,22 +1,32 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Vowel Reduction is Conditioned by Quality and Quantity Interactions: Evidence from Bolognese<br />Linguistic Society of America Annual Meeting; New Orleans, LA, USA",
+    29.9561422,
+    -90.0733934
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Bolognese Vowel Reduction in Gradient Harmonic Grammar: A unified model of idiosyncrasy and Derived Environment Effects<br />University of North Carolina at Chapel Hill Department of Linguistics annual Spring Colloquium; Chapel Hill, NC",
+    35.9131542,
+    -79.05578
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "The Role of Sonority in Bolognese Vowel Reduction<br />University of North Carolina at Chapel Hill Department of Linguistics Friday Colloquium Series; Chapel Hill, NC",
+    35.9131542,
+    -79.05578
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "An Analysis of Vowel Reduction in Bolognese<br />College of Humanities Research Poster Fair at the University of Utah; Salt Lake City, UT",
+    40.7596198,
+    -111.886797
+  ],
+  [
+    "An Analysis of Vowel Reduction in Bolognese<br />Undergraduate Research Symposium at the University of Utah; Salt Lake City, UT",
+    40.7596198,
+    -111.886797
+  ],
+  [
+    "An Analysis of Vowel Reduction in Bolognese<br />University of Utah Student Conference in Linguistics; Salt Lake City, UT",
+    40.7596198,
+    -111.886797
   ]
 ];
