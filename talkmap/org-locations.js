@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Vowel Reduction is Conditioned by Quality and Quantity Interactions: Evidence from Bolognese<br />Linguistic Society of America Annual Meeting; New Orleans, LA, USA",
+    "Vowel Reduction is Conditioned by Quality and Quantity Interactions: Evidence from Bolognese<br />Linguistic Society of America Annual Meeting; New Orleans, LA",
     29.9561422,
     -90.0733934
   ],
