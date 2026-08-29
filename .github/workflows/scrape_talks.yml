@@ -26,7 +26,7 @@ jobs:
       run: |
         pip install --upgrade pip
         pip cache purge
-        pip install jupyter pandas requests beautifulsoup4 geopy python-frontmatter getorg # Add other dependencies as needed
+        pip install jupyter pandas requests beautifulsoup4 geopy python-frontmatter getorg --upgrade # Add other dependencies as needed
         # pip install getorg --upgrade
 
     - name: Run Jupyter Notebook
