@@ -1,5 +1,5 @@
 ---
-title: "An Analysis of Vowel Reduction in Bolognese"
+title: "An analysis of vowel reduction in Bolognese"
 collection: talks
 type: "Conference poster"
 venue: "College of Humanities Research Poster Fair at the University of Utah"
