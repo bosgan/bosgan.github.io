@@ -1,6 +1,6 @@
 ---
-title: "Quality and Quantity Contribute Independently to
-Sonority: Evidence from Bolognese Vowel Reduction"
+title: "Quality and quantity contribute independently to
+sonority: Evidence from Bolognese vowel reduction"
 collection: talks
 type: "Conference talk"
 venue: "Western Conference on Linguistics"
