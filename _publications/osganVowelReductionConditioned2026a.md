@@ -6,6 +6,7 @@ permalink: /publication/osganVowelReductionConditioned2026a
 excerpt: ''
 date: 2026-01-01
 venue: 'Proceedings of the Linguistic Society of America'
+slidesurl: 'https://bosgan.github.io/files/LSA_2026_BOsgan_Quality_and_Quantity_Slides.pdf'
 paperurl: 'https://doi.org/10.3765/plsa.v11i1.6117'
 citation: 'Osgan, Brandon. 2026. Vowel reduction is conditioned by quality and quantity interactions: evidence from Bolognese. In <i>Proceedings of the Linguistic Society of America,</i> vol. 11, 6117. Linguistic Society of America. https://doi.org/10.3765/plsa.v11i1.6117.'
 ---
