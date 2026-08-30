@@ -3,7 +3,7 @@ title: "Vowel reduction is conditioned by quality and quantity interactions:
 Evidence from Bolognese"
 collection: publications
 category: conferences
-permalink: /publications/osganVowelReductionConditioned2026a
+permalink: /publication/osganVowelReductionConditioned2026a
 date: 2026
 venue: 'Proceedings of the Linguistic Society of America'
 paperurl: 'https://doi.org/10.3765/plsa.v11i1.6117'
