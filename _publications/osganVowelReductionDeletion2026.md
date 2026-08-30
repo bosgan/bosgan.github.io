@@ -5,7 +5,7 @@ collection: publications
 category: Thesis
 permalink: /publication/osganVowelReductionDeletion2026
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2026
+date: 2026-08-01
 venue: 'University of North Carolina at Chapel Hill MA Thesis'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.17615/q0ja-mz97'
