@@ -8,17 +8,15 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "CV"
-    url: /files/BOsgan_Curriculum_Vitae.pdf
-  
   - title: "Publications"
-    url: https://scholar.google.com/citations?hl=en&user=sI6XEV4AAAAJ
+    url: /publications/
+  #  url: https://scholar.google.com/citations?hl=en&user=sI6XEV4AAAAJ
 
   - title: "Presentations"
     url: /talks/    
 
-  # - title: "Teaching"
-  #  url: /teaching/    
+   - title: "Teaching"
+    url: /teaching/    
     
   # - title: "Portfolio"
   # url: /portfolio/
@@ -26,7 +24,8 @@ main:
   # - title: "Blog Posts"
   #  url: /year-archive/
     
-  # - title: "CV"
+   - title: "CV"
+      url: /files/BOsgan_Curriculum_Vitae.pdf
   #   url: /cv-json/
     
   # - title: "Guide"
