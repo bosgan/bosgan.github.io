@@ -4,7 +4,7 @@ layout: archive
 permalink: /helpful-resources/
 author_profile: true
 redirect_from:
-  - /helpful-resources
+  - /resources
 ---
 
 This page serves as a repository for the helpful linguistic resources I've come across over the years. These resources are not of my own creation. Please give proper credit to the original creators when using and citing these resources.
@@ -28,6 +28,12 @@ This page serves as a repository for the helpful linguistic resources I've come 
  
 * [Online IPA Keyboard](https://ipa.typeit.org/full/)
   *  This is an easy to use online IPA keyboard that lets you copy your text into other documents.
+ 
+* [Interactive Sagittal Section](https://incl.pl/sammy/)
+  *  This website lets you see (and download) an illustrative sagittal section of the vocal tract for various configurations of active articulators.
+ 
+* [Seeing Speech](https://www.seeingspeech.ac.uk/)
+  * This product of the collaboration between researchers at six Scottish Universities provides information on the use of ultrasound tongue imaging (UTI) magnetic resonance imaging (MRI) in phonetics, as well as 2D midsagittal head animations and audio-visual demos of speech based on MRI and UTI data.
 
 ## Syntax
 
