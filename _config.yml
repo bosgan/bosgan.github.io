@@ -90,6 +90,13 @@ publication_category:
   thesis:
     title: 'Thesis'
 
+# Talks Category - The following the list of talks categories and their headings
+talk_category:
+  talk:
+    title: 'Talks'
+  poster:
+    title: 'Posters'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
