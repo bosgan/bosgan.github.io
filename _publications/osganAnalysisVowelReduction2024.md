@@ -3,7 +3,7 @@ title: "An analysis of vowel reduction in Bolognese"
 collection: publications
 category: manuscripts
 permalink: /publication/osganAnalysisVowelReduction2024
-date: 2024
+date: 2024-08-01
 venue: 'RANGE: Journal of Undergraduate Research'
 paperurl: 'https://uen.pressbooks.pub/range25i1/chapter/osgan/'
 citation: 'Osgan, Brandon. 2024. An analysis of vowel reduction in Bolognese. RANGE: Journal of Undergraduate Research. Salt Lake City, UT: University of Utah 25(1).'
