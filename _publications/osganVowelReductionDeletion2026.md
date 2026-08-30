@@ -6,7 +6,7 @@ category: thesis
 permalink: /publication/osganVowelReductionDeletion2026
 excerpt: ''
 date: 2026-08-01
-venue: 'University of North Carolina at Chapel Hill MA Thesis'
+venue: 'Carolina Digital Repository'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.17615/q0ja-mz97'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
