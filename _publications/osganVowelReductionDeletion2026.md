@@ -3,7 +3,7 @@ title: "Vowel reduction and deletion in Bolognese: Evidence for sonority
 faithfulness and Gradient Harmonic Grammar"
 collection: publications
 category: Thesis
-permalink: /publications/osganVowelReductionDeletion2026
+permalink: /publication/osganVowelReductionDeletion2026
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2026
 venue: 'University of North Carolina at Chapel Hill MA Thesis'
