@@ -3,7 +3,7 @@ title: "Vowel reduction is conditioned by quality and quantity interactions: Evi
 collection: publications
 category: conferences
 permalink: /publication/osganVowelReductionConditioned2026a
-date: 2026
+date: 2026-01-01
 venue: 'Proceedings of the Linguistic Society of America'
 paperurl: 'https://doi.org/10.3765/plsa.v11i1.6117'
 citation: 'Osgan, Brandon. 2026. Vowel reduction is conditioned by quality and quantity interactions: evidence from Bolognese. In _Proceedings of the Linguistic Society of America,_ vol. 11, 6117. Linguistic Society of America. https://doi.org/10.3765/plsa.v11i1.6117.'
