@@ -77,6 +77,9 @@ This page serves as a repository for the helpful linguistic resources I've come 
 * [LinguisTree](https://academictree.org/linguistics/)
   * The Academic Genealogy of Linguistics is a free, volunteer-run website designed to help you track your academic genealogy. The goal of LinguisTree is to collect information about the graduate student and postdoctoral relationships between most researchers in the field.
  
+* [LaTeX](https://www.latex-project.org/)
+  * LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation, and is the de facto standard for the communication and publication of scientific documents. 
+ 
 ## Just for fun!
 
 * [Pink Trombone](https://dood.al/pinktrombone/)
