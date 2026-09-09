@@ -13,7 +13,7 @@ Hello! I am a Ph.D. student and teaching assistant in the [Department of Linguis
 
 My surname is pronounced [ˈɑz.gɪn] ('Oz' like the wizard, plus 'gin' with a hard 'g').
 
-* Sep.9 Brown Bag Talk: [slides](files/Derived_environments_and_GHG.pdf)
+<b>September 9th Brown Bag Talk: [slides](files/Derived_environments_and_GHG.pdf)</b>
 
 <h2 style="display: inline;">Recent news</h2>
 
