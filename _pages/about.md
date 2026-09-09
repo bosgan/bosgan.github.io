@@ -13,6 +13,8 @@ Hello! I am a Ph.D. student and teaching assistant in the [Department of Linguis
 
 My surname is pronounced [ˈɑz.gɪn] ('Oz' like the wizard, plus 'gin' with a hard 'g').
 
+* Sep.9 Brown Bag Talk: [slides](files/Derived_environments_and_GHG.pdf)
+
 <h2 style="display: inline;">Recent news</h2>
 
 * I graduated with an MA in Linguistics from the University of North Carolina at Chapel Hill!
