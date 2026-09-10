@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Ph.D. student and teaching assistant in the [Department of Linguistics](https://linguistics.stonybrook.edu/) at [Stony Brook University](https://www.stonybrook.edu/). My research focuses on theoretical phonology, particularly on constraint-based models of grammar. I'm interested in questions regarding the underlying representation of segments and how grammars evaluate faithfulness to scalar properties such as sonority. I'm also interested in derived environment effects and the interactions between morphology and phonology. Much of my current research centers on the languages and dialects of Northern Italy, most recently on [Bolognese](https://bulgnais.com/) (Bulgnaiṡ), a dialect of Emilian. I am interested in investigating how analysis of these diverse languages and their historical development can contribute to broader questions of phonological theory and language typology.
+Hello! I am a Ph.D. student and teaching assistant in the [Department of Linguistics](https://linguistics.stonybrook.edu/) at [Stony Brook University](https://www.stonybrook.edu/). My research focuses on theoretical phonology, particularly on constraint-based models of grammar. I'm interested in questions regarding the underlying representation of segments and how grammars evaluate faithfulness to scalar properties such as sonority. I'm also interested in derived environment effects and the interactions between phonetics, phonology, and morphology. Much of my current research centers on the languages and dialects of Northern Italy, most recently on [Bolognese](https://bulgnais.com/) (Bulgnaiṡ), a dialect of Emilian. I am interested in investigating how analysis of these diverse languages and their historical development can contribute to broader questions of phonological theory and language typology.
 
 <!-- Hello! I am a second-year M.A. student and teaching assistant in the [Department of Linguistics](https://linguistics.unc.edu/) at the [University of North Carolina at Chapel Hill](https://www.unc.edu/). My research focuses on theoretical phonology, particularly phonological representation and constraint interaction. I work primarily on Italian dialects, currently focusing on [Bolognese](https://bulgnais.com/) (an Emilian variety spoken in Bologna, Italy) as a case study for understanding sonority effects on vowel reduction and opacity within morphologically derived environment effects. -->
 
 My surname is pronounced [ˈɑz.gɪn] ('Oz' like the wizard, plus 'gin' with a hard 'g').
 
-<b>September 9th Brown Bag Talk: [slides](files/Derived_environments_and_GHG.pdf)</b>
+<!-- <b>September 9th Brown Bag Talk: [slides](files/Derived_environments_and_GHG.pdf)</b> -->
 
 <h2 style="display: inline;">Recent news</h2>
 
