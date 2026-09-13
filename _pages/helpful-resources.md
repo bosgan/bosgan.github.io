@@ -68,17 +68,15 @@ This page serves as a repository for the helpful linguistic resources I've come 
 
 ## Other
 
+* [LinguistList](https://linguistlist.org/)
+  * The Linguist List provides a forum where academic linguists can exchange linguistic information, including information about jobs, publications and conferences.
+
 * [R and RStudio](https://www.r-project.org/)
   * R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.
  
-* [LinguistList](https://linguistlist.org/)
-  * The Linguist List provides a forum where academic linguists can exchange linguistic information, including information about jobs, publications and conferences.
- 
-* [LinguisTree](https://academictree.org/linguistics/)
-  * The Academic Genealogy of Linguistics is a free, volunteer-run website designed to help you track your academic genealogy. The goal of LinguisTree is to collect information about the graduate student and postdoctoral relationships between most researchers in the field.
- 
 * [LaTeX](https://www.latex-project.org/)
-  * LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation, and is the de facto standard for the communication and publication of scientific documents. 
+  * LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation, and is the de facto standard for the communication and publication of scientific documents.
+    * Guides and resources for the use of LaTeX in Linguistics can be found [here](https://dozernyi.gitlab.io/lsalatex/), by Daniil M. Ozernyi (Northwestern University), and [here](https://psumikeputnam.weebly.com/latex-for-linguists.html), by Michael T. Putnam (Penn State University).
  
 ## Just for fun!
 
@@ -87,3 +85,6 @@ This page serves as a repository for the helpful linguistic resources I've come 
  
 * [Gramle](https://nascl.rc.nau.edu/gramle/)
   * A Wordle-type game for reading spectrograms.
+ 
+* [LinguisTree](https://academictree.org/linguistics/)
+  * The Academic Genealogy of Linguistics is a free, volunteer-run website designed to help you track your academic genealogy. The goal of LinguisTree is to collect information about the graduate student and postdoctoral relationships between most researchers in the field.
