@@ -17,10 +17,11 @@ My surname is pronounced [ˈɑz.gɪn] ('Oz' like the wizard, plus 'gin' with a h
 
 <h2 style="display: inline;">Recent news</h2>
 
+* I will be giving a talk at the [2027 LSA Annual Meeting](https://web.cvent.com/event/4c718093-cdd4-45b1-b649-a78146a2ea90/summary) in San Francisco, California! <!-- <i>A unified analysis of derived environment effects and idiosyncrasy in Gradient Harmonic Grammar: Evidence from Bolognese</i> -->
 * I graduated with an MA in Linguistics from the University of North Carolina at Chapel Hill!
 * I received the Marc Adam Eisdorfer Award for Excellence in Linguistics (UNC-Chapel Hill)!
 
-<!-- * I gave a talk at the [2026 LSA Annual Meeting](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/summary) in New Orleans, Louisiana: "_Vowel Reduction is Conditioned by Quality and Quantity
+<!-- * I gave a talk at the [2026 LSA Annual Meeting](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/summary) in New Orleans, Louisiana: "Vowel Reduction is Conditioned by Quality and Quantity
 Interactions: Evidence from Bolognese"
   * A copy of the slides can be found [here](/files/LSA_2026_BOsgan_Quality_and_Quantity_Slides.pdf). -->
 
